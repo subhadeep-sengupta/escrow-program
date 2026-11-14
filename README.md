@@ -292,6 +292,10 @@ cargo test
 
 The test runner compiles the program in test mode, executes all four test cases against the in-process VM, and reports results. No local validator or network connection is required.
 
+### Test Results
+
+![Test Results](assets/test_results.jpg)
+
 ---
 
 ## Building
